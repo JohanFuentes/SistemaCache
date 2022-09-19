@@ -1,4 +1,4 @@
-# Obtención del "query log"
+### Obtención del "query log"
 
 El "query log", fue obtenido a través del siguiente enlace [Query Log](http://www.cim.mcgill.ca/~dudek/206/Logs/AOL-user-ct-collection/). El "query log" que fue utilizado, fue el "user-ct-test-collection-06.txt.gz". El archivo del "query log", consta de los siguientes campos:
 
@@ -10,7 +10,7 @@ El "query log", fue obtenido a través del siguiente enlace [Query Log](http://w
 
 Los elementos que no tienen URL, no se tomaron en consideración.
 
-# Crawler
+### Crawler
 
 Con el crawler se obtuvo información importante de cada URL, para luego agregarla a la base de datos Postgres. La información relevante fueron los siguientes campos de la metadata:
 
