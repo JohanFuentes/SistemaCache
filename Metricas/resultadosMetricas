@@ -1,0 +1,51 @@
+LRU 900k
+
+Consultas respondidas por el backend:  270
+Tiempo promedio de respuesta del backend 23.422560402199075
+Consultas respondidas por Redis:  1146
+Tiempo promedio de respuesta de redis 9.247769500572645
+Consultas respondidas por el nodo 1 de Redis:  304
+Tiempo promedio de respuesta del nodo 1 de Redis 9.145976819490132
+Consultas respondidas por el nodo 2 de Redis:  285
+Tiempo promedio de respuesta del nodo 2 de Redis 9.318584669682018
+Consultas respondidas por el nodo 3 de Redis:  557
+Tiempo promedio de respuesta del nodo 3 de Redis 9.26709203531755
+
+LRU 2000k
+
+Consultas respondidas por el backend:  263
+Tiempo promedio de respuesta del backend 80.00474356879752
+Consultas respondidas por Redis:  1153
+Tiempo promedio de respuesta de redis 7.872082805385408
+Consultas respondidas por el nodo 1 de Redis:  270
+Tiempo promedio de respuesta del nodo 1 de Redis 7.634452763310185
+Consultas respondidas por el nodo 2 de Redis:  695
+Tiempo promedio de respuesta del nodo 2 de Redis 7.912895542940648
+Consultas respondidas por el nodo 3 de Redis:  188
+Tiempo promedio de respuesta del nodo 3 de Redis 8.062483117935505
+
+LFU 900k
+
+Consultas respondidas por el backend:  313
+Tiempo promedio de respuesta del backend 68.65932320786742
+Consultas respondidas por Redis:  1103
+Tiempo promedio de respuesta de redis 7.914410671535018
+Consultas respondidas por el nodo 1 de Redis:  246
+Tiempo promedio de respuesta del nodo 1 de Redis 7.9434705284552845
+Consultas respondidas por el nodo 2 de Redis:  464
+Tiempo promedio de respuesta del nodo 2 de Redis 7.823011201003502
+Consultas respondidas por el nodo 3 de Redis:  393
+Tiempo promedio de respuesta del nodo 3 de Redis 8.004132375159033
+
+LFU 2000k
+
+Consultas respondidas por el backend:  262
+Tiempo promedio de respuesta del backend 57.0204537661021
+Consultas respondidas por Redis:  1154
+Tiempo promedio de respuesta de redis 8.122879953896772
+Consultas respondidas por el nodo 1 de Redis:  565
+Tiempo promedio de respuesta del nodo 1 de Redis 8.164590967228982
+Consultas respondidas por el nodo 2 de Redis:  299
+Tiempo promedio de respuesta del nodo 2 de Redis 7.997865606709866
+Consultas respondidas por el nodo 3 de Redis:  290
+Tiempo promedio de respuesta del nodo 3 de Redis 8.170509496228448
