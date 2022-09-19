@@ -24,4 +24,4 @@ La estructura de la tabla en la base de datos queda de la siguiente forma:
 
 ```CREATE TABLE Items(Id INT, Title VARCHAR(800), Description VARCHAR(2000), Keywords VARCHAR(2000), URL VARCHAR(500));```
 
-Por último, cabe mencionar que se descartaron todos los elementos del archivo "query log", que no tuvieran completos todos los campos.
+Donde el campo Id es serial. Por último, cabe mencionar que se descartaron todos los elementos del archivo "query log", que no tuvieran completos todos los campos.
